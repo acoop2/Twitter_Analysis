@@ -1,7 +1,7 @@
 # Twitter_Analysis
 
 The purpose of this repository is to collect and analyze tweets using the twitter API Tweepy. The twitter API call is used to collect 100 tweets at a time
-as well as their attributes. They are stored in a csv file that was not included in this repository as it is too big. \n\n\n\n
+as well as their attributes. They are stored in a csv file that was not included in this repository as it is too big.
 
 
 

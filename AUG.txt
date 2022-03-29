@@ -1,0 +1,4 @@
+Sentiment: -0.1163592653779136
+Positive Tweets: 12546
+Negative Tweets: 22650
+Nuetral Tweets: 10130
